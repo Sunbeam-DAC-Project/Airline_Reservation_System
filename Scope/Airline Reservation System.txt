@@ -1,0 +1,52 @@
+Airline Reservation System
+
+1. Project Scope
+
+The Airline Reservation System (ARS) is designed to facilitate booking, managing, and tracking airline tickets for customers. It aims to enhance the efficiency and accuracy of the reservation process while providing a user-friendly experience for customers and administrative staff.
+
+2. Objectives:
+
+Customer Booking: Allow customers to search for flights, view available options, and make reservations.
+
+Ticket Management: Provide customers with the ability to view, modify, or cancel their bookings.
+
+Admin Management: Enable administrative users to manage flight schedules and track bookings..
+
+Customer Support: Offer features for customer support, including inquiries and issue resolution.
+
+3. Key Features:
+
+User Interfaces:
+
+Customer Interface: Allows users to search for flights, view schedules, book tickets, check booking status, and manage their profiles.
+
+Admin Interface: Provides tools for managing flight schedules, monitoring bookings, generating reports, and handling customer queries.
+
+Search and Booking:
+
+Flight Search: Users can search for flights based on departure and arrival cities, dates, and passenger details.
+Availability Check: Display available flights with real-time availability updates.
+Booking Process: Users can select flights, choose seats, enter passenger details, and confirm bookings.
+Payment Integration:
+
+Booking Management:
+
+View Bookings: Allow users to view their booking history and details.
+Modify/Cancellation: Enable users to modify or cancel their bookings with applicable rules and fees.
+Notification System:
+
+Customer Support:
+
+4. Functional Requirements:
+
+Flight Scheduling: Manage flight schedules, including arrivals, departures, and delays.
+Reservation System: Support real-time booking and seat allocation.
+Customer Database: Maintain customer profiles and booking history.
+Administrative Tools: Include features for managing flight operations and user accounts.
+
+5. Technology Stack:
+
+Front-End: HTML, CSS, JavaScript, frameworks like ReactJS.
+Back-End:  Java,  frameworks like Spring Boot and ORM-Hibernate.
+Database: MYSQL.
+
